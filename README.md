@@ -20,8 +20,3 @@ A simple cloud-based task management web app to add and delete daily tasks. Buil
 
 ---
 
-## 🔗 Live Demo
-👉 [Click here to view the live project](https://Tiasha-Banik.github.io/cloud-task-manager)
-
----
-
